@@ -95,7 +95,6 @@
     height: 200px;
     width: 400px;  
     display: flex; 
-    justify-content: space-evenly;
     flex-direction: row; 
     
 } 
@@ -108,4 +107,16 @@
     display: flex;
     flex-direction: column; 
     
-}
+} 
+
+.flex-container { 
+    background-color: purple; 
+    border: 2px black solid; 
+    height: 200px;
+    width: 400px;  
+    display: flex; 
+    justify-content: space-evenly;
+    flex-direction: row;  
+    align-items: center;
+    
+} 
