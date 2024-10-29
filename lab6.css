@@ -160,3 +160,23 @@ width: 200px;
    
 }
 
+
+.flex-container6 { 
+    background-color: rgb(87, 54, 54); 
+    border: 2px black solid; 
+height: 600px ;
+width: 600px;
+display: flex; 
+align-content: space-evenly;
+flex-wrap: wrap;
+    
+}   
+
+.flex-container6 div { 
+    height: 100px;
+    width: 250px; 
+    background-color: green; 
+    border: 2px black solid; 
+
+
+}
