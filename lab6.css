@@ -49,4 +49,12 @@
     position: sticky; 
     top: 0px; 
 
-}
+} 
+
+.background-image { 
+    background-image: url("Screenshot 2024-10-22 105643.jpg") ; 
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    height: 300px;
+    width: 400px;
+    background-position: center ;}
