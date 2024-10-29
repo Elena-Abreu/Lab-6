@@ -180,3 +180,33 @@ flex-wrap: wrap;
 
 
 }
+
+.flex-container7 { 
+    background-color: rgb(137, 17, 17); 
+    border: 2px black solid; 
+height: 600px ;
+width: 800px;
+display: flex;
+} 
+
+#Thediv  {
+    height: 100px;
+    width: 250px; 
+    background-color: rgb(47, 98, 47); 
+    border: 2px black solid;  
+    /* display:flex; */
+    flex-grow: 1
+
+}
+
+
+
+#Thediv2 { 
+    height: 100px;
+    width: 250px; 
+    background-color: rgb(111, 219, 111); 
+    border: 2px black solid;  
+    /* display:flex; */
+    flex-grow: 2
+
+}
