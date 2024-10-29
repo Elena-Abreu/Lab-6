@@ -87,4 +87,13 @@
     
    position:relative;
     z-index: 1;
+}  
+
+.flex-container { 
+    background-color: lightgreen; 
+    border: 2px black solid; 
+    height: 200px;
+    width: 400px;  
+    flex-direction: row; 
+    
 }
