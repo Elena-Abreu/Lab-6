@@ -58,3 +58,13 @@
     height: 300px;
     width: 400px;
     background-position: center ;}
+
+    .background-image-repeat { 
+        background-image: url("Screenshot 2024-10-22 105643.jpg") ; 
+        background-size: content; 
+        background-repeat: repeat-x; 
+        background-repeat: repeat-y; 
+        height: 1500px;
+        width: 1500px;
+       
+       }
