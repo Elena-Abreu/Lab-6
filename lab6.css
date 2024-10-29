@@ -131,3 +131,32 @@
     
 } 
 
+.flex-container5 { 
+    background-color: rgb(203, 203, 203); 
+    border: 2px black solid; 
+height: 600px ;
+width: 200px;
+    display: flex; 
+   
+    align-items: center;
+    
+}  
+
+#divone { 
+    background-color: rgb(137, 128, 137); 
+    border: 2px black solid; 
+ 
+}
+ 
+#divtwo { 
+    background-color: rgb(244, 166, 244); 
+    border: 2px black solid; 
+   
+} 
+
+#divthree { 
+    background-color: rgb(104, 25, 104); 
+    border: 2px black solid; 
+   
+}
+
