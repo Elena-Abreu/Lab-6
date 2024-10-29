@@ -39,3 +39,14 @@
     bottom: 10px; 
     right:10px;
 }
+
+.sticky-box{ 
+    background-color: lightcoral; 
+    border: 2px black solid; 
+    height: 200px;
+    width: 300px;
+    
+    position: sticky; 
+    top: 0px; 
+
+}
