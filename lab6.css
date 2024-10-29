@@ -94,6 +94,18 @@
     border: 2px black solid; 
     height: 200px;
     width: 400px;  
+    display: flex; 
+    justify-content: space-evenly;
     flex-direction: row; 
+    
+} 
+
+.flex-container2 { 
+    background-color: lightslategrey; 
+    border: 2px black solid; 
+    height: 200px;
+    width: 400px;  
+    display: flex;
+    flex-direction: column; 
     
 }
